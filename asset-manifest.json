@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/theo/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/theo/static/js/main.3efa17d7.chunk.js",
+    "main.js.map": "/theo/static/js/main.3efa17d7.chunk.js.map",
+    "runtime-main.js": "/theo/static/js/runtime-main.f0b39082.js",
+    "runtime-main.js.map": "/theo/static/js/runtime-main.f0b39082.js.map",
+    "static/js/2.3d396d1d.chunk.js": "/theo/static/js/2.3d396d1d.chunk.js",
+    "static/js/2.3d396d1d.chunk.js.map": "/theo/static/js/2.3d396d1d.chunk.js.map",
+    "static/js/3.cb2ade75.chunk.js": "/theo/static/js/3.cb2ade75.chunk.js",
+    "static/js/3.cb2ade75.chunk.js.map": "/theo/static/js/3.cb2ade75.chunk.js.map",
+    "index.html": "/theo/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/theo/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.3d396d1d.chunk.js.LICENSE.txt": "/theo/static/js/2.3d396d1d.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/theo/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0b39082.js",
+    "static/js/2.3d396d1d.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.3efa17d7.chunk.js"
+  ]
+}
